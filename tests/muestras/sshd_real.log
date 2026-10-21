@@ -1,0 +1,25 @@
+Server listening on 0.0.0.0 port 2222.
+Connection from 127.0.0.1 port 53764 on 127.0.0.1 port 2222 rdomain ""
+Accepted key ED25519 SHA256:FGtIZfmNUymJkCDXOEmvQvSGXN7DDBqOnhYes43ieh8 found at /home/secadmin/.ssh/authorized_keys:1
+Postponed publickey for secadmin from 127.0.0.1 port 53764 ssh2 [preauth]
+Accepted key ED25519 SHA256:FGtIZfmNUymJkCDXOEmvQvSGXN7DDBqOnhYes43ieh8 found at /home/secadmin/.ssh/authorized_keys:1
+Accepted publickey for secadmin from 127.0.0.1 port 53764 ssh2: ED25519 SHA256:FGtIZfmNUymJkCDXOEmvQvSGXN7DDBqOnhYes43ieh8
+User child is on pid 1208
+Starting session: command for secadmin from 127.0.0.1 port 53764 id 0
+Received disconnect from 127.0.0.1 port 53764:11: disconnected by user
+Disconnected from user secadmin 127.0.0.1 port 53764
+Connection from 127.0.0.1 port 53774 on 127.0.0.1 port 2222 rdomain ""
+User ana from 127.0.0.1 not allowed because none of user's groups are listed in AllowGroups
+Connection closed by invalid user ana 127.0.0.1 port 53774 [preauth]
+Connection from 127.0.0.1 port 53780 on 127.0.0.1 port 2222 rdomain ""
+User root from 127.0.0.1 not allowed because none of user's groups are listed in AllowGroups
+Connection closed by invalid user root 127.0.0.1 port 53780 [preauth]
+Connection from 127.0.0.1 port 53790 on 127.0.0.1 port 2222 rdomain ""
+Failed publickey for secadmin from 127.0.0.1 port 53790 ssh2: ED25519 SHA256:8lGCkChnYFEQCvU/34x71khOgBHab+oqRfwnTn07jjs
+Connection closed by authenticating user secadmin 127.0.0.1 port 53790 [preauth]
+Connection from 127.0.0.1 port 53796 on 127.0.0.1 port 2222 rdomain ""
+Invalid user hacker from 127.0.0.1 port 53796
+Connection closed by invalid user hacker 127.0.0.1 port 53796 [preauth]
+Connection from 127.0.0.1 port 53802 on 127.0.0.1 port 2222 rdomain ""
+Connection closed by authenticating user secadmin 127.0.0.1 port 53802 [preauth]
+Received signal 15; terminating.

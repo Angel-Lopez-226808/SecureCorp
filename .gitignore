@@ -1,0 +1,17 @@
+# Secretos: NUNCA al repositorio
+pki/certs/*.key
+pki/certs/**/*.key
+pki/certs/**/key.pem
+config/
+
+# Generados en ejecución
+pki/certs/*.srl
+pki/certs/**/*.srl
+pki/certs/*.ext
+datos/
+logs/
+run/
+descargas/
+venv/
+__pycache__/
+.pytest_cache/

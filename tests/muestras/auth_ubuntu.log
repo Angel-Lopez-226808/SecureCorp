@@ -1,0 +1,5 @@
+2026-10-20T03:10:01.123456-06:00 securecorp sshd-session[1201]: Accepted publickey for secadmin from 192.168.1.20 port 51234 ssh2: ED25519 SHA256:abc
+2026-10-20T03:10:22.000000-06:00 securecorp sshd-session[1210]: User ana from 192.168.1.20 not allowed because none of user's groups are listed in AllowGroups
+2026-10-20T03:10:40.000000-06:00 securecorp sshd-session[1215]: Invalid user hacker from 192.168.1.66 port 40000
+Oct 20 03:11:00 securecorp sshd[1220]: Failed publickey for secadmin from 192.168.1.20 port 51300 ssh2: ED25519 SHA256:xyz
+2026-10-20T03:12:00.000000-06:00 securecorp CRON[1]: pam_unix(cron:session): session opened
